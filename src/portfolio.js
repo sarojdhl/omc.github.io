@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://omc.github.io/cleanfolio',
-  title: 'OMC.',
+  homepage: '',
+  title: 'OMC',
 }
 
 const about = {
