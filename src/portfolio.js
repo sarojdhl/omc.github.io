@@ -9,7 +9,7 @@ const about = {
   name: 'One More Chapter',
   role: 'book Club',
   description:
-        'Welcome To our lovely book club. We are very please to have you here. This club prides itself in building the community of fellow book readers and learners. If you want to be part of our growing team, please contact us. Thanks.',
+        'Welcome To our lovely book club. We are very pleased to have you here. This club prides itself in building the community of fellow book readers and learners. If you want to be part of our growing team, please contact us. Thanks.',
   resume: '',
   social: {
     linkedin: '',
